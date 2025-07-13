@@ -25,7 +25,6 @@ This Streamlit app predicts whether a Pokémon is Legendary based on its base st
 ## 📎 Demo
 
 🔗 [Live App](https://legendary-pokemon-predictor.streamlit.app)  
-📘 [GitHub Repo](https://github.com/lakshhttps/legendary-pokemon-predictor)
 
 ---
 
@@ -35,4 +34,13 @@ This Streamlit app predicts whether a Pokémon is Legendary based on its base st
 
 ## 📜 License
 
-MIT License
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🙋 Author
+
+Built with ❤️ by **Laksh Arora**  
+- 🔗 [GitHub Profile](https://github.com/lakshhttps)
+- 💼 [LinkedIn](https://www.linkedin.com/in/laksh-arora-490ba725b/)
+- 🐦 [X (Twitter)](https://x.com/hacknhash)
